@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61a61be4ddad4ca1bc45d7466c8c15ea
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/IntegrationManager/Editor/AppLovinCommandLine.cs
+- al_max_export_path-MaxSdk\Scripts\IntegrationManager\Editor\AppLovinCommandLine.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

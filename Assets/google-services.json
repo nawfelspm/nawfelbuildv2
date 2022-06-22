@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "271891709600",
-    "project_id": "traktor-87359",
-    "storage_bucket": "traktor-87359.appspot.com"
+    "project_number": "1033065141762",
+    "project_id": "luccasneto-b8697",
+    "storage_bucket": "luccasneto-b8697.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:271891709600:android:aadae4eb32a0ce2e3a53c5",
+        "mobilesdk_app_id": "1:1033065141762:android:5b0d77763e526f64b1f91b",
         "android_client_info": {
-          "package_name": "com.Traktormalenspiele.Traktormalspiele"
+          "package_name": "com.LuccasNetocolorir.LuccasNeto"
         }
       },
       "oauth_client": [
         {
-          "client_id": "271891709600-l2r3r5on829ocifsje85pkq6qv90dgsi.apps.googleusercontent.com",
+          "client_id": "1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDnxQM_pWjvhkxg7bgGr76YX9Sn-2xw7fE"
+          "current_key": "AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "271891709600-l2r3r5on829ocifsje85pkq6qv90dgsi.apps.googleusercontent.com",
+              "client_id": "1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

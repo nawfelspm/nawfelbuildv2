@@ -188,7 +188,7 @@ SpriteRenderer:
   m_Size: {x: 245.75996, y: 25.919998}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &332831764
@@ -232,15 +232,15 @@ RectTransform:
   m_GameObject: {fileID: 607583547}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5869152, y: 1.6580355, z: 0.5869152}
+  m_LocalScale: {x: 0.30813047, y: 1.6580355, z: 0.5869152}
   m_Children: []
   m_Father: {fileID: 1519688963}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.00012207031, y: -5}
-  m_SizeDelta: {x: -189.23999, y: -420.24}
+  m_AnchoredPosition: {x: 39, y: -30}
+  m_SizeDelta: {x: -949.58, y: -399.31}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &607583549
 MonoBehaviour:
@@ -628,12 +628,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2aa91a5483c5475cad46dd5fa493fdaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  donnamckay: 
-  lenawilliam: {fileID: 0}
-  virginiang: 
-  vickiemott: 
-  pattyhutton: 
-  rondaellis: 
+  marciabryan: 
+  barbradutton: {fileID: 0}
+  jasminstory: 
+  sheilaesquivel: 
+  charitygold: 
+  beulahkelley: 
   unityAdsVideoPlacementId: rewardedVideo
 --- !u!4 &2045904242
 Transform:

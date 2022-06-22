@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: 97db103151624423a5fe2608fa46be45
+  productGUID: a337eaa5aa524becbd2c5df03f68030b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Traktormalenspiele
-  productName: Traktormalspiele
+  companyName: 'LuccasNetocolorir '
+  productName: LuccasNeto
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -148,7 +148,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Traktormalenspiele.Traktormalspiele
+    Android: com.LuccasNetocolorir.LuccasNeto
     Standalone: com.northpick.coloringbsookl
     Tizen: biz.labhand.happyvillasge
     iPhone: com.digismile.happysvillage
@@ -157,7 +157,7 @@ PlayerSettings:
     Standalone: 0
     iPhone: 204
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
+  overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 213
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
@@ -267,7 +267,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: df4dd30d167447c38875eb4960e8fea1, type: 3}
+      m_Icon: {fileID: 2800000, guid: 5d9405847d83490ead58dcecaaaf9176, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -341,8 +341,8 @@ PlayerSettings:
       m_Kind: 1
       m_SubKind: 
     - m_Textures:
-      - {fileID: 2800000, guid: cbc08daaebab4addbf365628b9df9400, type: 3}
-      - {fileID: 2800000, guid: cbc08daaebab4addbf365628b9df9400, type: 3}
+      - {fileID: 2800000, guid: 0893a6c9e6b940bd99fb5a21e6c47012, type: 3}
+      - {fileID: 2800000, guid: 0893a6c9e6b940bd99fb5a21e6c47012, type: 3}
       m_Width: 432
       m_Height: 432
       m_Kind: 2
@@ -943,10 +943,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 76593409-4a53-4891-b3ad-26f2677b9b70
+  cloudProjectId: cc7f2563-d475-4d49-85f2-38d3677914f7
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Traktor
+  projectName: HorseMath
   organizationId: yt20aqin
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

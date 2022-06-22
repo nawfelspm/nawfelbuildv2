@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "172767507017",
-    "project_id": "peppa-15d90",
-    "storage_bucket": "peppa-15d90.appspot.com"
+    "project_number": "1033065141762",
+    "project_id": "luccasneto-b8697",
+    "storage_bucket": "luccasneto-b8697.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:172767507017:android:62398b9a0348b444908598",
+        "mobilesdk_app_id": "1:1033065141762:android:5b0d77763e526f64b1f91b",
         "android_client_info": {
-          "package_name": "com.Traktormalenspiele.Traktormalspiele"
+          "package_name": "com.LuccasNetocolorir.LuccasNeto"
         }
       },
       "oauth_client": [
         {
-          "client_id": "172767507017-i412dp7uinr1lttsct00kbdh51lijtm0.apps.googleusercontent.com",
+          "client_id": "1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPY4Ihdj5PV8l0sGL3isezCiVwT5979Zc"
+          "current_key": "AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "172767507017-i412dp7uinr1lttsct00kbdh51lijtm0.apps.googleusercontent.com",
+              "client_id": "1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

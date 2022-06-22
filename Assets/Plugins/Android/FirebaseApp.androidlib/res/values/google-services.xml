@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
-  <string name="gcm_defaultSenderId" translatable="false">271891709600</string>
-  <string name="google_storage_bucket" translatable="false">traktor-87359.appspot.com</string>
-  <string name="project_id" translatable="false">traktor-87359</string>
-  <string name="google_api_key" translatable="false">AIzaSyDnxQM_pWjvhkxg7bgGr76YX9Sn-2xw7fE</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnxQM_pWjvhkxg7bgGr76YX9Sn-2xw7fE</string>
-  <string name="google_app_id" translatable="false">1:271891709600:android:aadae4eb32a0ce2e3a53c5</string>
-  <string name="default_web_client_id" translatable="false">271891709600-l2r3r5on829ocifsje85pkq6qv90dgsi.apps.googleusercontent.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1033065141762</string>
+  <string name="google_storage_bucket" translatable="false">luccasneto-b8697.appspot.com</string>
+  <string name="project_id" translatable="false">luccasneto-b8697</string>
+  <string name="google_api_key" translatable="false">AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA</string>
+  <string name="google_app_id" translatable="false">1:1033065141762:android:5b0d77763e526f64b1f91b</string>
+  <string name="default_web_client_id" translatable="false">1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com</string>
 </resources>

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1033065141762",
-    "project_id": "luccasneto-b8697",
-    "storage_bucket": "luccasneto-b8697.appspot.com"
+    "project_number": "543622630552",
+    "project_id": "plimplim-7d302",
+    "storage_bucket": "plimplim-7d302.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1033065141762:android:5b0d77763e526f64b1f91b",
+        "mobilesdk_app_id": "1:543622630552:android:d95f1508a3e0b2e330d4ed",
         "android_client_info": {
-          "package_name": "com.LuccasNetocolorir.LuccasNeto"
+          "package_name": "com.plimplimcolorir.plimplimjuegos"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com",
+          "client_id": "543622630552-4s3o7v4s40gbi5j5ceva7ocega02188a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA"
+          "current_key": "AIzaSyB_qGNKase8HnBJCDv3EDqxZ2ns7OBJsW4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com",
+              "client_id": "543622630552-4s3o7v4s40gbi5j5ceva7ocega02188a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

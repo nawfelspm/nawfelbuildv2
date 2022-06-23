@@ -9,7 +9,7 @@ using UnityEditor;
 using System.IO;
 #endif
 
-public class marcelgallegos : MonoBehaviour
+public class waltercassidy : MonoBehaviour
 {
     public string bertiedelarosa = "ColoringList";
 
@@ -38,8 +38,8 @@ public class marcelgallegos : MonoBehaviour
     private int eulasparks;
     private int gladysweller = 0;
 
-    private int estellewilkins = 1024;
-    private int daynameza = 576;
+    private int mollyrosario = 1024;
+    private int arlinejimenez = 576;
 
     private void Awake()
     {
@@ -113,8 +113,8 @@ public class marcelgallegos : MonoBehaviour
         albertamoyer = new List<GameObject>();
 
         
-        foreach (Transform rosettavillegas in transform)
-            albertamoyer.Add(rosettavillegas.gameObject);
+        foreach (Transform melisacorona in transform)
+            albertamoyer.Add(melisacorona.gameObject);
 
         
         if (erikasavage)
@@ -205,18 +205,18 @@ private void jenniedonahue(int num)
     {
         for (int i = 0; i < transform.childCount; i++)
         {
-            byte[] loadPixels = new byte[estellewilkins * daynameza * 4];
+            byte[] loadPixels = new byte[mollyrosario * arlinejimenez * 4];
             loadPixels = darcydeleon(bertiedelarosa + i.ToString());
 
             if (loadPixels != null)
             {
-                Texture2D tex = new Texture2D(estellewilkins, daynameza, TextureFormat.RGBA32, false);
+                Texture2D tex = new Texture2D(mollyrosario, arlinejimenez, TextureFormat.RGBA32, false);
                 tex.filterMode = FilterMode.Point;
                 tex.wrapMode = TextureWrapMode.Clamp;
                 tex.LoadRawTextureData(loadPixels);
                 tex.Apply(false);
 
-                transform.GetChild(i).GetComponent<Image>().sprite = Sprite.Create(tex, new Rect(0, 0, estellewilkins, daynameza), Vector2.zero, 100);
+                transform.GetChild(i).GetComponent<Image>().sprite = Sprite.Create(tex, new Rect(0, 0, mollyrosario, arlinejimenez), Vector2.zero, 100);
             }
         }
     }
@@ -639,21 +639,21 @@ private void jenniedonahue(int num)
 
     public void freidalanders(int index)
     {
-        quentincarlson.Instance.ShowAdMob(); 
+        thomascope.Instance.ShowAdMob(); 
        
         PlayerPrefs.SetInt(bertiedelarosa, index);
         PlayerPrefs.Save();
 
         if (transform.GetChild(index).childCount > 0)
         {
-            demetriusrice.joannstahl = index;
+            bradfordsouza.marcygarza = index;
         }
         else
         {
-            demetriusrice.joannstahl = -1;
+            bradfordsouza.marcygarza = -1;
         }
 
-        demetriusrice.pansyharrison = bertiedelarosa + index.ToString();
+        bradfordsouza.mavisespinoza = bertiedelarosa + index.ToString();
         SceneManager.LoadScene("PaintScene");
     }
 }

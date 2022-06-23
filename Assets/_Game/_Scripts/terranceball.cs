@@ -6,7 +6,7 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 
-public class sammyherring : MonoBehaviour
+public class terranceball : MonoBehaviour
 {
     
     object app;
@@ -21,12 +21,12 @@ public class sammyherring : MonoBehaviour
     {
         UnityEngine.Debug.Log("Received Registration Token: " + token.Token);
     }
-    public static bool desireegillespie = false;
+    public static bool gwenholloway = false;
     public void OnMessageReceived(object sender, Firebase.Messaging.MessageReceivedEventArgs e)
     {
         UnityEngine.Debug.Log("XReceived a new message from: " + e.Message.From);
-        desireegillespie = true;
-        UnityEngine.Debug.Log("XReceived pushnoti" + sammyherring.desireegillespie.ToString());
+        gwenholloway = true;
+        UnityEngine.Debug.Log("XReceived pushnoti" + terranceball.gwenholloway.ToString());
 
     }
 

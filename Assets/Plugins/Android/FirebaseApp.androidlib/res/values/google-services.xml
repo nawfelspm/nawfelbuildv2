@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
-  <string name="gcm_defaultSenderId" translatable="false">1033065141762</string>
-  <string name="google_storage_bucket" translatable="false">luccasneto-b8697.appspot.com</string>
-  <string name="project_id" translatable="false">luccasneto-b8697</string>
-  <string name="google_api_key" translatable="false">AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjgQ5I489frAjL9hjzl9wViqEIcW4nJjA</string>
-  <string name="google_app_id" translatable="false">1:1033065141762:android:5b0d77763e526f64b1f91b</string>
-  <string name="default_web_client_id" translatable="false">1033065141762-5cver2oucfc2dov950ku8bkj4u1qs80u.apps.googleusercontent.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">543622630552</string>
+  <string name="google_storage_bucket" translatable="false">plimplim-7d302.appspot.com</string>
+  <string name="project_id" translatable="false">plimplim-7d302</string>
+  <string name="google_api_key" translatable="false">AIzaSyB_qGNKase8HnBJCDv3EDqxZ2ns7OBJsW4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_qGNKase8HnBJCDv3EDqxZ2ns7OBJsW4</string>
+  <string name="google_app_id" translatable="false">1:543622630552:android:d95f1508a3e0b2e330d4ed</string>
+  <string name="default_web_client_id" translatable="false">543622630552-4s3o7v4s40gbi5j5ceva7ocega02188a.apps.googleusercontent.com</string>
 </resources>

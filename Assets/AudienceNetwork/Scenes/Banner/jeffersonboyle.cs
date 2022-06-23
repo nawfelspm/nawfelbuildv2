@@ -5,14 +5,14 @@ using UnityEngine.UI;
 using AudienceNetwork.Utility;
 using System;
 
-public class murrayvogt : felixtaylor
+public class jeffersonboyle : thaddeusmoss
 {
     private AdView adView;
     private AdPosition currentAdViewPosition;
     private ScreenOrientation currentScreenOrientation;
     public Text statusLabel;
     private AdSize[] adSizeArray = (AdSize[])Enum.GetValues(typeof(AdSize));
-    private int sonyakirkland;
+    private int celinasanders;
     public Button loadAdButton;
 
     void OnDestroy()
@@ -29,16 +29,16 @@ public class murrayvogt : felixtaylor
     {
         AudienceNetworkAds.Initialize();
         SetLoadAddButtonText();
-        loydbarton.marisolramirez();
+        vaughnhouston.alexisbrandt();
     }
 
     private void SetLoadAddButtonText()
     {
         loadAdButton.GetComponentInChildren<Text>().text =
-            "Load Banner (" + adSizeArray[sonyakirkland].ToString() + ")";
+            "Load Banner (" + adSizeArray[celinasanders].ToString() + ")";
     }
 
-    public void cleoweber()
+    public void margotbrewster()
     {
         if (adView)
         {
@@ -50,7 +50,7 @@ public class murrayvogt : felixtaylor
         
         
         
-        adView = new AdView("YOUR_PLACEMENT_ID", adSizeArray[sonyakirkland]);
+        adView = new AdView("YOUR_PLACEMENT_ID", adSizeArray[celinasanders]);
         
 
         adView.Register(gameObject);
@@ -62,8 +62,8 @@ public class murrayvogt : felixtaylor
         {
             currentScreenOrientation = Screen.orientation;
             adView.Show(100);
-            string georgettecrowley = adView.IsValid() ? "valid" : "invalid";
-            statusLabel.text = "Banner loaded and is " + georgettecrowley + ".";
+            string sophiagates = adView.IsValid() ? "valid" : "invalid";
+            statusLabel.text = "Banner loaded and is " + sophiagates + ".";
             Debug.Log("Banner loaded");
         };
         adView.AdViewDidFailWithError = delegate (string error)
@@ -86,14 +86,14 @@ public class murrayvogt : felixtaylor
         adView.LoadAd();
     }
 
-    public void gabrielanash()
+    public void cassiehoang()
     {
-        sonyakirkland += 1;
-        sonyakirkland %= adSizeArray.Length;
+        celinasanders += 1;
+        celinasanders %= adSizeArray.Length;
         SetLoadAddButtonText();
     }
 
-    public void morgandenny()
+    public void kristinnix()
     {
         SceneManager.LoadScene("RewardedVideoAdScene");
     }
@@ -103,18 +103,18 @@ public class murrayvogt : felixtaylor
     
     
     
-    public void whitneystreet()
+    public void suehale()
     {
         switch (currentAdViewPosition)
         {
             case AdPosition.TOP:
-                deliavigil(AdPosition.BOTTOM);
+                enidbanks(AdPosition.BOTTOM);
                 break;
             case AdPosition.BOTTOM:
-                deliavigil(AdPosition.CUSTOM);
+                enidbanks(AdPosition.CUSTOM);
                 break;
             case AdPosition.CUSTOM:
-                deliavigil(AdPosition.TOP);
+                enidbanks(AdPosition.TOP);
                 break;
         }
     }
@@ -123,12 +123,12 @@ public class murrayvogt : felixtaylor
     {
         if (adView && Screen.orientation != currentScreenOrientation)
         {
-            deliavigil(currentAdViewPosition);
+            enidbanks(currentAdViewPosition);
             currentScreenOrientation = Screen.orientation;
         }
     }
 
-    private void deliavigil(AdPosition adPosition)
+    private void enidbanks(AdPosition adPosition)
     {
         switch (adPosition)
         {

@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public class taylorfrye : MonoBehaviour
+public class juliusmueller : MonoBehaviour
 {
     public AudioClip clickSound, cameraSound;
 
-    public static taylorfrye USE;
+    public static juliusmueller USE;
 
-    private AudioSource avasewell;
+    private AudioSource leahmagee;
 
     private void Awake()
     {
@@ -16,9 +16,9 @@ public class taylorfrye : MonoBehaviour
             USE = this;
             DontDestroyOnLoad(gameObject);
 
-            avasewell = transform.GetChild(0).GetComponent<AudioSource>();
+            leahmagee = transform.GetChild(0).GetComponent<AudioSource>();
 
-            katrinamadrid();
+            maryanneleyva();
         }
         else
         {
@@ -26,13 +26,13 @@ public class taylorfrye : MonoBehaviour
         }
     }
 
-    private void katrinamadrid()
+    private void maryanneleyva()
     {
         
         AudioListener.volume = PlayerPrefs.GetInt("MusicSetting", 1);
     }
 
-    public void michellelim()
+    public void lessiehatcher()
     {
         AudioListener.volume = AudioListener.volume == 1 ? 0 : 1;
 
@@ -40,8 +40,8 @@ public class taylorfrye : MonoBehaviour
         PlayerPrefs.Save();
     }
 
-    public void lizaayers(AudioClip clip)
+    public void jaclyntemple(AudioClip clip)
     {
-        avasewell.PlayOneShot(clip);
+        leahmagee.PlayOneShot(clip);
     }
 }
